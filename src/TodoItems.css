@@ -1,0 +1,16 @@
+li{
+    background-color: rgba(255,255,255,.5);
+    list-style-type: none;
+    padding: 10px;
+    color: black;
+    margin-top: 2px;
+    border-radius: 5px;
+    transition: background-color .2s ease-out;
+}
+li:hover{
+    background-color: rgba(255,192,203,.5);
+}
+.theList{
+    padding: 0;
+    cursor: pointer;
+}
